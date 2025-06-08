@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center" style="font-family: Georgia, serif; color: #8000FF;">
 
-<!--
-**monahspb/monahspb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=36&duration=7000&pause=500&color=8000FF&center=true&vCenter=true&width=700&lines=Привет,+меня+зовут+Денис!;Я+погружаюсь+в+мир;Data+Science!"
+      alt="Typing Animation"
+    />
+  </h1>
 
-Here are some ideas to get you started:
+  <p>
+    <img
+      src="https://github.com/monahspb/monahspb/blob/main/%D0%B3%D0%B8%D1%82%D1%85%D0%B0%D0%B1.jpg?raw=true"
+      width="800"
+      alt="Coding Illustration"
+    />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
